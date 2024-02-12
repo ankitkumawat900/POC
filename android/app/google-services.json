@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310174409880",
+    "project_id": "isn-project-ad7f8",
+    "storage_bucket": "isn-project-ad7f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310174409880:android:4e6f53cc66bb9e57719ced",
+        "android_client_info": {
+          "package_name": "com.realtimedbpoc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRc-1av5Dm9XNqCivu1K4VfTKgWu_rj_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
