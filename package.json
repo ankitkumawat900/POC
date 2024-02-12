@@ -10,8 +10,17 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-community/netinfo": "^11.2.1",
+    "ng-speed-test": "^2.6.1",
     "react": "18.2.0",
-    "react-native": "0.73.2"
+    "react-native": "0.73.2",
+    "react-native-blob-util": "^0.19.6",
+    "react-native-compressor": "^1.8.23",
+    "react-native-fs": "^2.20.0",
+    "react-native-image-picker": "^7.1.0",
+    "react-native-network-bandwith-speed": "^3.0.0",
+    "react-native-network-speed": "^1.1.2",
+    "react-native-video": "5.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
