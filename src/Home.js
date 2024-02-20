@@ -49,7 +49,7 @@ import {check, request, PERMISSIONS, RESULTS} from 'react-native-permissions';
 
 const Home = () => {
     console.log("plugin",locale_en_gb);
-    const editorDefaults = {
+  const editorDefaults = {
     imageReader: createDefaultImageReader(),
     imageWriter: createDefaultImageWriter(),
     imageOrienter: createDefaultImageOrienter(),
