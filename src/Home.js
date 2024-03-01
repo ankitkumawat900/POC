@@ -1531,6 +1531,7 @@ const Home = () => {
   const [offline, setOffline] = useState(false);
 
   const dataRead = () => {
+    //coomemnt
     database()
       .ref(
         '/data/inspectiontemplates/0/categories/0/lines/0/line_input_controls/0/values',
